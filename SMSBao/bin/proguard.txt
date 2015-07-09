@@ -1,0 +1,15 @@
+# view AndroidManifest.xml #generated:33
+-keep class cn.smsbao.annoying.MainActivity { <init>(...); }
+
+# view res/layout/smssdk_contact_list_page.xml #generated:13
+-keep class cn.smssdk.gui.ContactsListView { <init>(...); }
+
+# view res/layout/smssdk_country_list_page.xml #generated:13
+-keep class cn.smssdk.gui.CountryListView { <init>(...); }
+
+# view AndroidManifest.xml #generated:44
+-keep class com.mob.tools.MobUIShell { <init>(...); }
+
+# view res/layout/smssdk_contacts_listview_item.xml #generated:10
+-keep class com.mob.tools.gui.AsyncImageView { <init>(...); }
+

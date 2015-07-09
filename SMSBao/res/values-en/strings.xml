@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SMSSDK</string>
+    <string name="smssdk_bind_mobile_show">Send annoying SMS</string>
+    <string name="smssdk_contact">Please input the annoying phone</string>
+    <string name="smssdk_appkey_dialog_title">Please input App information</string>
+    <string name="smssdk_appkey">AppKey</string>
+    <string name="smssdk_appkey_hint">Please input AppKey</string>
+    <string name="smssdk_appsecret">AppSecret</string>
+    <string name="smssdk_appsecrethint">Please input AppSecret</string>
+    <string name="sms_please_input_the_phone">please input the phone number</string>
+</resources>
